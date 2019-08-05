@@ -1,3 +1,7 @@
 .grl{
 body: ffd;
 }
+
+.option_span{
+align: center;
+}
